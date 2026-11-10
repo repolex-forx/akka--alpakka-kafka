@@ -1,0 +1,11 @@
+{
+  "org": "akka",
+  "repo": "alpakka-kafka",
+  "versions": [
+    {
+      "commit": "4e1e9fb11cb125a331031d8631f1232938421098",
+      "tag": "v8.1.1",
+      "parsed_at": "2026-11-10T05:26:39.481814+00:00"
+    }
+  ]
+}
