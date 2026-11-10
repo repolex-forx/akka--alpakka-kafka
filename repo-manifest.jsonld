@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/akka/alpakka-kafka/commit/4e1e9fb11cb125a331031d8631f1232938421098",
       "git:hexsha": "4e1e9fb11cb125a331031d8631f1232938421098",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v8.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v8.1.1",
+      "repolex:parsedAt": "2026-11-10T05:26:39.480957+00:00"
     },
     {
       "@id": "https://repolex.ai/r/akka/alpakka-kafka/commit/7d0382b1b4d190864d1f5e0f7c1f41576abe6329",
